@@ -1,15 +1,15 @@
-Python Email Crawler
+Python3 Email Crawler
 ====================
 
-This python script search/google certain keywords, crawls the webpages from the results, and return all emails found.
+This python3 script search/google certain keywords, crawls the webpages from the results, and return all emails found.
+Same as Samwise just for python3 and with another user agent...
 
 Requirements
 ------------
 
 - sqlalchemy
-- urllib2
 
-If you don't have, simply `sudo pip install sqlalchemy`. 
+If you don't have, simply `sudo pip3 install sqlalchemy`. 
 
 
 Usage
